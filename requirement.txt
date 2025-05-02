@@ -1,0 +1,10 @@
+flask
+networkx
+pyvis
+requests
+bs4
+uuid
+datetime
+matplotlib
+pandas
+openai

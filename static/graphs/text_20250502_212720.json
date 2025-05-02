@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "Nikola Tesla",
+    "Serbian-American",
+    "engineer",
+    "futurist",
+    "inventor",
+    "alternating current (AC) electricity supply system"
+  ],
+  "relations": [
+    [
+      "Nikola Tesla",
+      "was",
+      "Serbian-American"
+    ],
+    [
+      "Nikola Tesla",
+      "was",
+      "engineer"
+    ],
+    [
+      "Nikola Tesla",
+      "was",
+      "futurist"
+    ],
+    [
+      "Nikola Tesla",
+      "was",
+      "inventor"
+    ],
+    [
+      "Nikola Tesla",
+      "contributed to",
+      "alternating current (AC) electricity supply system"
+    ]
+  ]
+}
